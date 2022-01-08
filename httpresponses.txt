@@ -1,0 +1,20 @@
+1XX INFORMATIONAL
+
+100 continue
+
+
+2XX SUCCESS
+
+200 ok, 201 Created, 204 No Content
+
+3XX REDIRECTION
+
+304 Not Modified
+
+4XX CLIENT ERROR
+
+400 bad request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 409 Conflict
+
+5XX SERVER ERROR
+
+500 Internal server error, 502 Bad Gateway, 503 Service Unavailable
